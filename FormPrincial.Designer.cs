@@ -1,7 +1,7 @@
 ﻿
 namespace CorrigeProtocolo
 {
-    partial class Form1
+    partial class FormPrincial
     {
         /// <summary>
         /// Variável de designer necessária.

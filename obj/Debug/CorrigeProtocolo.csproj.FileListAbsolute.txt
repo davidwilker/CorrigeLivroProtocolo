@@ -2,7 +2,6 @@ C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\C
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\CorrigeProtocolo.exe
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\CorrigeProtocolo.pdb
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.csproj.AssemblyReference.cache
-C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.Form1.resources
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.Properties.Resources.resources
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.csproj.GenerateResource.cache
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.csproj.CoreCompileInputs.cache
@@ -25,4 +24,5 @@ C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\S
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.csproj.CopyComplete
-C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.Form2.resources
+C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.FormPrincial.resources
+C:\Users\david.wilker\source\repos\CorrigeProtocolo\CorrigeProtocolo\obj\Debug\CorrigeProtocolo.FormSobre.resources

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CorrigeProtocolo
 {
-    public partial class Form2 : Form
+    public partial class FormSobre : Form
     {
-        public Form2()
+        public FormSobre()
         {
             InitializeComponent();
         }
